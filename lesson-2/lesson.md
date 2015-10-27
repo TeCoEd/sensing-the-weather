@@ -1,12 +1,12 @@
 # Weather Station Basic I/O - Lesson Plan 2
 
-In this lesson students will experiment with the Raspberry Pi GPIO pins and do some Python programming. We are going to focus on input mode specifically, since this is more appropriate to sensing things from the outside world than output mode. This knowledge will be used to connect with the rain gauge and wind speed sensors in later lessons.
+In this lesson students will experiment with the Raspberry Pi GPIO pins and do some Python programming. We are going to focus on input mode specifically, since this is more appropriate to sensing things from the outside world than the output mode. This knowledge will be used to connect with the rain gauge and wind speed sensors in later lessons.
 
 ## Learning objectives
 
-- understand what pull up and pull down circuits are, and be able to differentiate between the two
-- understand how to detect the state of a switch from within the Python programming language
-- write a Python program which includes an infinite loop to check the state of the switch
+- Understandnderstand what pull up and pull down circuits are, and be able to differentiate between the two
+- Understand how to detect the state of a switch from within the Python programming language
+- Write a Python program which includes an infinite loop to check the state of the switch
 
 ## Learning outcomes
 
