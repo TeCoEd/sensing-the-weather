@@ -45,8 +45,8 @@ Once you have explored how the sensor works you should connect it up to a Pi in 
 
 ## Main development
 
-1. Students boot their Raspberry Pi. Review last lesson's code with them: students could add some comments or simply discuss what each line does.
-2. Students follow [worksheet](worksheet.md) to:
+1. Ask students to boot their Raspberry Pi. Review last lesson's code with them: students could add some comments or simply discuss what each line does.
+2. Support your students as they work through and follow the [worksheet](worksheet.md) to:
   - connect a button to pin 6 (instead of pin 4)
   - adapt their code to the new pin
   - use their polling program to count sensor inputs
