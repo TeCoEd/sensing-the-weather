@@ -30,7 +30,7 @@ This lesson will introduce students to weather forecasting and how it works, as 
 ## Lesson Summary
 
 - Decode a weather forecast
-- Consider what data needs to be captured
+- Consider what data needs to be captured to forecast the weather
 - Introduce the Raspberry Pi and weather station sensors
 - Understand the differences between input and output mode, and `HIGH` and `LOW` signals
 
@@ -44,7 +44,7 @@ Discuss with students how meteorologists make predictions about the weather. Thr
 
 ## Main development
 
-1. Ask students to consider the different weather data that could be measured, and how this might be collected. This could be done through general class discussion, playing with the sensors and predicting what they might do, or a simple [cardsort](files/WeatherStationCardsort.pdf) activity. Students could create a [weather log](files/weather_log.pdf) using a weather forecasting service to record the conditions predicted for the coming week. They could then find the nearest recording station on the [weather online](http://www.weatheronline.co.uk/weather/maps/current?LANG=en&CONT=ukuk) site and compare. This could be done as a home learning task.
+1. Ask students to consider the different types of weather data that could be measured and how this might be collected. This could be done through general class discussion, playing with the sensors and predicting what they might do, or a simple [cardsort](files/WeatherStationCardsort.pdf) activity. Students could create a [weather log](files/weather_log.pdf) using a weather forecasting service to record the conditions predicted for the coming week. They could then find the nearest recording station on the [weather online](http://www.weatheronline.co.uk/weather/maps/current?LANG=en&CONT=ukuk) site and compare. This could be set as a home learning task.
 
 1. Introduce the Raspberry Pi and how it will be used to automatically collect data. Students should consider and discuss in a group the benefits of the Raspberry Pi over a standard computer. These benefits include size, cost, and ability to interact with hardware sensors. If pupils have never used a Raspberry Pi, this [video](http://www.raspberrypi.org/help/what-is-a-raspberry-pi/) may be useful at this point. This [getting started lesson](http://www.raspberrypi.org/learning/getting-started-with-raspberry-pi-lesson/) may be useful in giving the students a hands-on experience.
 
